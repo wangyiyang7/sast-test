@@ -1,7 +1,7 @@
 const express = require('express');
 const mysql = require('mysql');
 const app = express();
-
+// hh
 // Hardcoded credentials (CWE-798)
 const DB_PASSWORD = 'SuperSecret123!';
 const API_KEY = 'sk-1234567890abcdef';
